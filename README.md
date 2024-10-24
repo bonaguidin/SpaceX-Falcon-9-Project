@@ -2,9 +2,9 @@
 This project is to showcase compentency in the Data Analysis pipeline from collection to predictive models using SpaceX Falcon 9's historical launch data.
 
 ## **Breakdown of each notebook in /Colab_Notebooks:**
-**1:** 
-**2:**
-**3:**
+**1:** Data collection and preprocessing. Used the SpaceX API to collect preliminary data.
+**2:** Web Scraping process. Web scraped Wiki pages to gather historical data about SpaceX launches and landings.
+**3:** Data Wrangling. Normalized and 
 **4:**
 **5:**
 **6:**

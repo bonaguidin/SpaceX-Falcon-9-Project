@@ -3,12 +3,19 @@ This project is to showcase compentency in the Data Analysis pipeline from colle
 
 ## **Breakdown of each notebook in /Colab_Notebooks:**
 **1:** Data collection and preprocessing. Used the SpaceX API to collect preliminary data.
+
 **2:** Web Scraping process. Web scraped Wiki pages to gather historical data about SpaceX launches and landings.
+
 **3:** Data Wrangling. Normalized and 
+
 **4:**
+
 **5:**
+
 **6:**
+
 **7:**
+
 **8:**
 
 ## **Executive Summary of findings**

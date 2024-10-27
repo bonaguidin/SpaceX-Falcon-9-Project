@@ -20,6 +20,9 @@ __All notebooks have a Colab link to interact and make adjustments if you would 
 
 **8:** Machine Learning Models. Create various machine learning models to predict the outcome of future launches. 
 
+## **Libraries and Technologies used**
+aaaaaaaaa
+
 ## **Executive Summary of findings**
 Overall, we discovered 
 

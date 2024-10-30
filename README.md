@@ -21,12 +21,32 @@ __All notebooks have a Colab link to interact and make adjustments if you would 
 **8:** Machine Learning Models. Create various machine learning models to predict the outcome of future launches. 
 
 ## **Libraries and Technologies used**
-aaaaaaaaa
+_Python_
+
+- Numpy
+
+- Matplotlib
+  
+- Plotly
+
+- Folium
+
+- Sklearn
+
+- Seaborn
+
+- Dash
+
+_SQL in Python_
+
+API calls and web scraping from Wikipeia. 
 
 ## **Executive Summary of findings**
-Overall, we discovered 
+
+Our findings reveal that Number of Flights plays a significant role in determining landing success, with more launches being associated with more successful re-entries. Over the past decade, the overall success rate of SpaceX flights has steadily improved. Specifically, launches targeting orbits such as ES-L1, GEO, HEO, and SSO demonstrate the highest probability of successful landings. Additionally, launches from CCAFS SLC-40 emerged as the most reliable in terms of landing success. 
 
 ## This project was produced by Coursera and IBM. All content belongs to IBM/SkillTree and should be treated as such. This repository was created partly for this project and partly for easy refrence. 
-# Author:
-Noah Bonaguidi
-bonaguidin@gmail.com
+
+# ***Noah Bonaguidi***
+
+*bonaguidin@gmail.com*

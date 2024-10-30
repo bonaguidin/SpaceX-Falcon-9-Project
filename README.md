@@ -4,21 +4,21 @@ This project is to showcase compentency in the Data Analysis pipeline from colle
 ## **Breakdown of each notebook in /Colab_Notebooks:**
 __All notebooks have a Colab link to interact and make adjustments if you would like to gain a deeper understanding of our project.__
 
-**1:** Data collection and preprocessing. Used the SpaceX API to collect preliminary data.
+**1:** _Data collection and preprocessing._ Used the SpaceX API to collect preliminary data.
 
-**2:** Web Scraping process. Web scraped Wiki pages to gather historical data about SpaceX launches and landings.
+**2:** _Web Scraping process._ Web scraped Wiki pages to gather historical data about SpaceX launches and landings.
 
-**3:** Data Wrangling. Normalized and breakdown dataset into most valuable datapoints and features
+**3:** _Data Wrangling._ Normalized and breakdown dataset into most valuable datapoints and features
 
-**4:** SQL Analysis. Gain deeper understanding of our data using SQL and drill down methods
+**4:** _SQL Analysis._ Gain deeper understanding of our data using SQL and drill down methods
 
-**5:** Data Visualization. Visualize our data using various plotting methods and Seaborn/Matplotlib
+**5:** _Data Visualization._ Visualize our data using various plotting methods and Seaborn/Matplotlib
 
-**6:** Map Launchsites. Created interactive map with Folium for each launch site, including launch status. 
+**6:** _Map Launchsites._ Created interactive map with Folium for each launch site, including launch status. 
 
-**7:** Dashboard. Create interactive dashboard using Dash to display visualized data in a dynamic manner.
+**7:** _Dashboard._ Create interactive dashboard using Dash to display visualized data in a dynamic manner.
 
-**8:** Machine Learning Models. Create various machine learning models to predict the outcome of future launches. 
+**8:** _Machine Learning Models._ Create various machine learning models to predict the outcome of future launches. 
 
 ## **Libraries and Technologies used**
 _Python_
